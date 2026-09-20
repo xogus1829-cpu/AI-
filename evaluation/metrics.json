@@ -1,0 +1,7 @@
+{
+  "total_questions": 30,
+  "recall_at_k": 0.87,
+  "faithfulness": 0.92,
+  "latency_sec": 1.2,
+  "cost_per_query_usd": 0.002
+}
